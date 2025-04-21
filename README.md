@@ -62,7 +62,7 @@ http://127.0.0.1:8000/api/
 - **DELETE** `/api/tasks/{id}/` - Delete a task by ID
 
 ## Developers
-- **Your Name** - [Your GitHub Profile](https://github.com/Erphs)
+- **Your Name** - [My GitHub Profile](https://github.com/Erphs)
 - **Roxana** - Assisting with API development and README writing
 
 ## License
